@@ -1,0 +1,12 @@
+﻿  kuni.cpp
+D:\SFML test\Project2\Project2\kuni.cpp(7,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SFML test\Project2\Project2\kuni.cpp(21,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\SFML test\Project2\Project2\kuni.cpp(95,21): warning C4305: '=': truncation from 'double' to 'float'
+D:\SFML test\Project2\Project2\kuni.cpp(164,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\SFML test\Project2\Project2\kuni.cpp(177,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML test\Project2\Project2\kuni.cpp(177,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML test\Project2\Project2\kuni.cpp(185,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SFML test\Project2\Project2\kuni.cpp(185,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project2.vcxproj -> D:\SFML test\Project2\x64\Debug\Project2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
